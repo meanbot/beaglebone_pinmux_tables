@@ -13,3 +13,8 @@ Please fork and send pull requests if anything should be changed.  I'll
 accept accurate changes for any reason (formatting, spelllling, wrongness,
 etc).
 
+
+
+I'm planning to use this branch to define the first pin mux for the 
+userspcae arduino project. It'll be based on the pin map of the Arduino Uno and
+the Bacon cape (http://www.elinux.org/Bacon_Cape).
